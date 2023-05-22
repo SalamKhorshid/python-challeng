@@ -1,2 +1,2 @@
-# python-challeng
+# python-challenge
 Module 3 Challenge
